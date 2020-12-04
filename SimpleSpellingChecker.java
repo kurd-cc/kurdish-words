@@ -1,5 +1,5 @@
 /**
- * @autho: Jagar Yousef
+ * @author Jagar Yousef
  */
 
 import java.util.*;
