@@ -1,11 +1,11 @@
-## Kurdish Words Set
+# Kurdish Words Set
 
 - One of the biggest set of Kurdish (Kurmanji) words
  - words.txt: from Rojava news websites (accurate)
  - words_rudaw.txt: from Rudaw website (less accurate)
  - The words currently are not filtered or catagorized
 
-**Files**<br>
+## Files<br>
 ### SimpleSpellingCheker.java: 
 some basic operations to detect the possible alternatives for any word. Usage:<br>
 
